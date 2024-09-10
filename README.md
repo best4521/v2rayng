@@ -1,9 +1,9 @@
 <!-- ####### HEY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0; text-align: right;"><a href="https://miladping.site">خرید کانفیگ</a> </h1>
+<h1 style="color: #5e9ca0; text-align: right;"><a href="https://gtfile1.com/product/%D8%AE%D8%B1%DB%8C%D8%AF-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-v2rayng/">خرید کانفیگ</a> </h1>
 <h2 style="color: #2e6c80; text-align: right;">V2rayng</h2>
 <p style="text-align: right;">جهت خرید آنلاین کانفیگ با کیفیت و بدون قطعی با پشتیبانی 24 ساعته وارد سایت زیر شوید</p>
-<p style="text-align: right;">&nbsp; <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">MiladPing</span></p>
-<h2 style="color: #2e6c80; text-align: right;">&nbsp;برخی از مزایا میلاد پینگ</h2>
+<p style="text-align: right;">&nbsp; <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">GTfile</span></p>
+<h2 style="color: #2e6c80; text-align: right;">&nbsp;برخی از مزایا جی تی فایل</h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold; text-align: right;">
 <li style="clear: both;"><img style="float: right;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" />بدون قطعی و افت سرعت</li>
 <li style="clear: both;"><img style="float: right;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> &nbsp;&nbsp;&nbsp; کیفیت بالا سرور ها</li>
